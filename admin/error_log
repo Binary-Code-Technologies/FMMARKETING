@@ -1,0 +1,2061 @@
+[06-Jan-2019 05:05:27 UTC] PHP Notice:  Undefined variable: cmn in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php on line 1
+[06-Jan-2019 05:05:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php:1
+Stack trace:
+#0 /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php(95): include()
+#1 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php on line 1
+[06-Jan-2019 05:29:51 UTC] PHP Notice:  Undefined variable: cmn in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php on line 1
+[06-Jan-2019 05:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php:1
+Stack trace:
+#0 /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php(95): include()
+#1 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php on line 1
+[06-Jan-2019 06:19:24 UTC] PHP Notice:  Undefined variable: cmn in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php on line 1
+[06-Jan-2019 06:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php:1
+Stack trace:
+#0 /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/master_pcat.php(85): include()
+#1 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/inc/top_files.php on line 1
+[06-Jan-2019 06:59:17 UTC] PHP Notice:  Undefined offset: 2 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 897
+[06-Jan-2019 06:59:17 UTC] PHP Notice:  Undefined offset: 1 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 899
+[06-Jan-2019 07:00:25 UTC] PHP Notice:  Undefined variable: cmn in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issueentry.php on line 89
+[06-Jan-2019 07:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issueentry.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issueentry.php on line 89
+[06-Jan-2019 07:03:29 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[06-Jan-2019 07:03:29 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[06-Jan-2019 07:03:29 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[06-Jan-2019 07:03:29 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:03:29 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:03:29 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:06:27 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[06-Jan-2019 07:06:27 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[06-Jan-2019 07:06:27 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[06-Jan-2019 07:06:27 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:06:27 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:06:27 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:07:06 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[06-Jan-2019 07:07:06 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[06-Jan-2019 07:07:06 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[06-Jan-2019 07:07:06 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:07:06 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:07:06 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 07:11:13 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[06-Jan-2019 07:11:32 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:11:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:11:32 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:11:32 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:09 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[06-Jan-2019 07:12:09 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[06-Jan-2019 07:12:12 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:12 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:12 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:12 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:15 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:15 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:15 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:20 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:20 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:20 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:22 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:22 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:22 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:32 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:32 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:32 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:34 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:34 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:34 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:34 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:37 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 07:12:37 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 07:12:37 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:12:37 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 07:15:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 07:15:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 07:16:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 07:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 07:17:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 07:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 07:17:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 07:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 07:18:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 07:18:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 07:19:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 07:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 07:20:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 07:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 07:20:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 07:20:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 07:26:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 07:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 13:50:29 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[06-Jan-2019 13:51:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 13:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 13:51:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 13:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 13:52:42 UTC] PHP Notice:  Undefined offset: 2 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 848
+[06-Jan-2019 13:52:42 UTC] PHP Notice:  Undefined offset: 1 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 849
+[06-Jan-2019 13:52:42 UTC] PHP Notice:  Undefined offset: 2 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 848
+[06-Jan-2019 13:52:42 UTC] PHP Notice:  Undefined offset: 1 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 849
+[06-Jan-2019 13:52:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 13:52:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 13:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 13:52:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 13:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 13:52:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 13:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 13:55:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 13:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 13:55:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[06-Jan-2019 13:55:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[06-Jan-2019 13:56:39 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[06-Jan-2019 13:56:39 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[06-Jan-2019 13:56:39 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[06-Jan-2019 13:56:39 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 13:56:39 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 13:56:39 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 14:08:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 14:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 14:09:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 14:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 14:10:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[06-Jan-2019 14:10:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[06-Jan-2019 14:16:06 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[06-Jan-2019 14:16:20 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 14:16:20 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 14:16:20 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:20 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:24 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 14:16:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 14:16:24 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:24 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:28 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 14:16:28 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 14:16:28 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:28 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:32 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 14:16:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 14:16:32 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:32 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:39 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[06-Jan-2019 14:16:39 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[06-Jan-2019 14:16:39 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:39 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[06-Jan-2019 14:16:47 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[06-Jan-2019 14:16:47 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[06-Jan-2019 14:16:47 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[06-Jan-2019 14:16:47 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 14:16:47 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[06-Jan-2019 14:16:47 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 04:47:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[07-Jan-2019 04:47:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[07-Jan-2019 04:47:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[07-Jan-2019 04:47:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[07-Jan-2019 04:47:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[07-Jan-2019 04:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[07-Jan-2019 04:47:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 04:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 05:09:22 UTC] PHP Notice:  Undefined offset: 2 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 897
+[07-Jan-2019 05:09:22 UTC] PHP Notice:  Undefined offset: 1 in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 899
+[07-Jan-2019 05:12:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 05:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 05:12:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 05:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 06:54:53 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[07-Jan-2019 06:54:53 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[07-Jan-2019 06:54:53 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[07-Jan-2019 06:54:53 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 06:54:53 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 06:54:53 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 06:56:05 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[07-Jan-2019 06:56:41 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[07-Jan-2019 06:56:41 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[07-Jan-2019 06:56:41 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 06:56:41 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:10:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:10:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:10:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:10:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:11:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:12:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:12:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:33:52 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 134
+[07-Jan-2019 11:33:52 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 147
+[07-Jan-2019 11:33:52 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 160
+[07-Jan-2019 11:33:52 UTC] PHP Notice:  Undefined variable: branch_id in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 11:33:52 UTC] PHP Notice:  Undefined variable: pcatid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 11:33:52 UTC] PHP Notice:  Undefined variable: productid in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/issuereport.php on line 174
+[07-Jan-2019 11:34:50 UTC] PHP Notice:  Undefined variable: tblpkey in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/productwise_stock_report.php on line 227
+[07-Jan-2019 11:35:09 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[07-Jan-2019 11:35:09 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[07-Jan-2019 11:35:09 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:09 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:17 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[07-Jan-2019 11:35:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[07-Jan-2019 11:35:17 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:17 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:26 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[07-Jan-2019 11:35:26 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[07-Jan-2019 11:35:26 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:26 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:38 UTC] PHP Warning:  date_sub() expects parameter 1 to be DateTime, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 417
+[07-Jan-2019 11:35:38 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 418
+[07-Jan-2019 11:35:38 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:35:38 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/lib/getval.php on line 421
+[07-Jan-2019 11:36:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:36:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:36:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[07-Jan-2019 11:36:31 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 62
+[07-Jan-2019 11:36:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 62
+[07-Jan-2019 11:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 62
+[07-Jan-2019 11:36:31 UTC] PHP Notice:  Undefined variable: cmn in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 71
+[07-Jan-2019 11:36:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 71
+[07-Jan-2019 11:36:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf1.php on line 12
+[07-Jan-2019 11:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php:625
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purchase_invoceta5.php on line 625
+[07-Jan-2019 11:36:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/fpdf17/fpdf.php on line 12
+[07-Jan-2019 11:36:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php:631
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/pdf_purches_invoice.php on line 631
+[08-Jan-2019 05:54:07 UTC] PHP Notice:  Undefined variable: connection in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 62
+[08-Jan-2019 05:54:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 62
+[08-Jan-2019 05:54:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 62
+[08-Jan-2019 05:54:07 UTC] PHP Notice:  Undefined variable: cmn in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 71
+[08-Jan-2019 05:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/tb3gg1hiazeb/public_html/bpsahu.com/software/admin/purchaseentry.php on line 71
+[11-Apr-2021 11:42:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:100
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 100
+[11-Apr-2021 11:48:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php:253
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php on line 253
+[11-Apr-2021 11:48:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php:253
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php on line 253
+[27-Apr-2021 08:39:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:100
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 100
+[27-Apr-2021 08:39:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:100
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 100
+[29-Apr-2021 07:20:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:100
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 100
+[01-May-2021 08:39:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_product.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_product.php on line 20
+[09-May-2021 08:21:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php:253
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php on line 253
+[10-May-2021 07:09:04 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[10-May-2021 07:09:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[10-May-2021 07:09:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[10-May-2021 07:09:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[10-May-2021 07:09:13 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[10-May-2021 07:09:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 00:58:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 00:58:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 00:58:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[14-May-2021 01:00:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[14-May-2021 01:00:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 01:00:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 01:01:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 01:01:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-May-2021 01:02:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[20-May-2021 01:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-May-2021 23:38:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-May-2021 02:21:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-May-2021 08:05:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[31-May-2021 08:44:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/purchaseentry.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/purchaseentry.php on line 21
+[07-Jun-2021 03:55:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Jun-2021 10:04:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Jun-2021 01:11:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[18-Jun-2021 01:11:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[18-Jun-2021 01:11:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[18-Jun-2021 07:51:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::open() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/print_inentry_detail_pur.php:74
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/print_inentry_detail_pur.php on line 74
+[19-Jun-2021 03:05:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function dateformatusa() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/productwise_stock_report.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/productwise_stock_report.php on line 25
+[21-Jun-2021 08:03:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Jun-2021 07:31:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[28-Jun-2021 08:45:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Jul-2021 01:36:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/purchaseentry.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/purchaseentry.php on line 21
+[03-Jul-2021 00:41:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[03-Jul-2021 00:41:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[03-Jul-2021 00:41:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[03-Jul-2021 00:43:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[03-Jul-2021 00:43:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[03-Jul-2021 00:43:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[03-Jul-2021 00:43:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Jul-2021 00:43:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Jul-2021 07:17:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[03-Jul-2021 07:17:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[03-Jul-2021 07:17:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[05-Jul-2021 02:02:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[05-Jul-2021 03:11:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Jul-2021 02:38:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Jul-2021 02:38:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Jul-2021 03:14:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Jul-2021 09:39:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[09-Jul-2021 09:39:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[09-Jul-2021 09:39:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[10-Jul-2021 01:22:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Jul-2021 07:02:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Jul-2021 02:15:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Jul-2021 07:14:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Jul-2021 03:02:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php:1
+Stack trace:
+#0 /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_disease.php(85): include()
+#1 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php on line 1
+[22-Jul-2021 02:40:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 87
+[22-Jul-2021 02:40:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 87
+[22-Jul-2021 02:40:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php:1
+Stack trace:
+#0 /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php(122): include()
+#1 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php on line 1
+[22-Jul-2021 07:12:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[22-Jul-2021 07:12:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[22-Jul-2021 07:12:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[22-Jul-2021 07:12:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Jul-2021 08:15:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[22-Jul-2021 08:15:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[22-Jul-2021 08:15:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[22-Jul-2021 09:20:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Jul-2021 00:53:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[23-Jul-2021 00:53:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[23-Jul-2021 00:53:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[24-Jul-2021 01:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Jul-2021 08:00:23 America/Chicago] PHP Warning:  Use of undefined constant saleid - assumed 'saleid' (this will throw an Error in a future version of PHP) in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/ajax_getreturnproductlist.php on line 5
+[26-Jul-2021 09:20:50 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[26-Jul-2021 09:20:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[26-Jul-2021 09:20:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[27-Jul-2021 08:30:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[27-Jul-2021 08:30:21 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[27-Jul-2021 08:30:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[27-Jul-2021 08:30:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 87
+[27-Jul-2021 08:30:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 87
+[27-Jul-2021 08:30:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php:1
+Stack trace:
+#0 /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php(122): include()
+#1 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php on line 1
+[27-Jul-2021 09:39:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 87
+[27-Jul-2021 09:39:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 87
+[27-Jul-2021 09:39:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php:1
+Stack trace:
+#0 /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php(122): include()
+#1 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php on line 1
+[29-Jul-2021 07:46:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getcode() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_product.php:91
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_product.php on line 91
+[02-Aug-2021 08:00:35 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[02-Aug-2021 08:00:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[02-Aug-2021 08:00:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[02-Aug-2021 08:56:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[05-Aug-2021 02:23:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[05-Aug-2021 02:23:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[05-Aug-2021 02:23:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[06-Aug-2021 01:48:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Aug-2021 09:14:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Aug-2021 01:18:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php:253
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/pdf_sale_report.php on line 253
+[10-Aug-2021 08:39:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[12-Aug-2021 06:54:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::open() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/print_inentry_detail_pur.php:74
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/print_inentry_detail_pur.php on line 74
+[12-Aug-2021 06:54:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::open() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/print_inentry_detail_pur.php:74
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/print_inentry_detail_pur.php on line 74
+[14-Aug-2021 07:19:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[17-Aug-2021 07:51:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[18-Aug-2021 06:40:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Aug-2021 03:15:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/show_salerecord.php on line 23
+[23-Aug-2021 03:15:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/show_salerecord.php on line 48
+[24-Aug-2021 09:04:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getcode() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_product.php:91
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_product.php on line 91
+[24-Aug-2021 09:19:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/purchaseentry.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/purchaseentry.php on line 21
+[25-Aug-2021 02:41:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Aug-2021 07:48:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php:1
+Stack trace:
+#0 /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_unit.php(85): include()
+#1 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php on line 1
+[26-Aug-2021 01:15:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Aug-2021 01:15:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Sep-2021 01:41:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[01-Sep-2021 02:12:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function dateformatusa() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/salereport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/salereport.php on line 33
+[02-Sep-2021 08:20:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[02-Sep-2021 08:20:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[02-Sep-2021 08:20:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[02-Sep-2021 09:39:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[02-Sep-2021 09:40:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[04-Sep-2021 08:16:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/issueentry.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/issueentry.php on line 89
+[08-Sep-2021 02:03:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[16-Sep-2021 07:12:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[16-Sep-2021 07:12:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[16-Sep-2021 07:12:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[16-Sep-2021 07:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[16-Sep-2021 07:12:13 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[16-Sep-2021 07:12:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[20-Sep-2021 00:13:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Sep-2021 07:41:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[21-Sep-2021 02:33:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[21-Sep-2021 02:33:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[21-Sep-2021 02:33:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[05-Oct-2021 08:57:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Oct-2021 03:14:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Oct-2021 09:25:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Oct-2021 10:25:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[13-Oct-2021 00:12:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[13-Oct-2021 01:04:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php:1
+Stack trace:
+#0 /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/master_disease.php(85): include()
+#1 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/inc/top_files.php on line 1
+[14-Oct-2021 00:10:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 00:10:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 00:24:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 00:24:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 00:24:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 00:24:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 02:47:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 02:47:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 06:49:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 06:49:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Oct-2021 06:50:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Oct-2021 00:19:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Oct-2021 00:19:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Oct-2021 01:01:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Oct-2021 02:24:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Oct-2021 02:33:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[15-Oct-2021 02:33:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[16-Oct-2021 00:52:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[16-Oct-2021 00:52:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[16-Oct-2021 08:54:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[17-Oct-2021 01:43:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[17-Oct-2021 03:00:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[17-Oct-2021 23:49:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[17-Oct-2021 23:49:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 00:52:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 00:52:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 00:54:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 00:54:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 01:27:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 01:27:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 02:03:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 08:09:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 08:34:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[18-Oct-2021 08:34:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 00:16:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 00:45:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 00:45:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 01:58:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[19-Oct-2021 01:58:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[19-Oct-2021 01:58:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[19-Oct-2021 01:58:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 01:58:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 01:59:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 01:59:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 02:01:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 02:01:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 02:03:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 03:06:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 03:06:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 03:09:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 03:09:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 03:09:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 07:18:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 07:30:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 07:30:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 07:52:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 07:52:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 08:51:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 08:51:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 09:07:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 09:11:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 09:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 09:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Oct-2021 09:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Oct-2021 00:32:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Oct-2021 00:32:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Oct-2021 08:41:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Oct-2021 08:41:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Oct-2021 08:43:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Oct-2021 08:43:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Oct-2021 07:40:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Oct-2021 07:40:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Oct-2021 08:55:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Oct-2021 10:07:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Oct-2021 10:07:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Oct-2021 00:16:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Oct-2021 08:44:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Oct-2021 08:44:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 00:22:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 00:22:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 07:17:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 07:18:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 09:11:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 09:11:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Oct-2021 09:42:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Oct-2021 00:13:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Oct-2021 02:01:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Oct-2021 02:01:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Oct-2021 02:02:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Oct-2021 02:02:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 01:01:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 01:04:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 01:04:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 01:32:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 01:32:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 07:42:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 07:42:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 08:11:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 08:11:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 08:23:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 08:23:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 09:06:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 09:06:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 09:06:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Oct-2021 09:06:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Oct-2021 00:08:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Oct-2021 00:08:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Oct-2021 02:18:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Oct-2021 06:40:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Oct-2021 06:40:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 01:49:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 01:49:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 08:22:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 08:22:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 09:23:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 09:28:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Oct-2021 09:28:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 00:52:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 07:00:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 07:00:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 08:18:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[29-Oct-2021 08:18:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[29-Oct-2021 08:18:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[29-Oct-2021 08:18:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 08:18:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 09:34:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[29-Oct-2021 09:34:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[29-Oct-2021 09:34:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[29-Oct-2021 09:35:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 09:35:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 09:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Oct-2021 09:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 02:27:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 02:27:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 06:40:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 06:40:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 06:40:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 08:33:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 08:33:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[30-Oct-2021 09:19:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 00:05:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 00:12:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 00:12:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 01:39:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Nov-2021 01:39:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Nov-2021 01:39:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[01-Nov-2021 01:39:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 01:39:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 01:41:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 01:41:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 02:52:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Nov-2021 02:52:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Nov-2021 02:52:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[01-Nov-2021 02:52:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function dateformatusa() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 30
+[01-Nov-2021 06:55:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 06:55:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 06:55:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 06:56:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 07:04:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 07:15:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 07:15:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 09:49:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Nov-2021 09:49:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Nov-2021 09:49:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[01-Nov-2021 09:50:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 09:50:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 09:53:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Nov-2021 09:53:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Nov-2021 02:10:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Nov-2021 08:29:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Nov-2021 08:29:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Nov-2021 08:30:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Nov-2021 08:30:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Nov-2021 00:22:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Nov-2021 00:22:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Nov-2021 02:30:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Nov-2021 07:31:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Nov-2021 07:31:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Nov-2021 01:33:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Nov-2021 01:33:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Nov-2021 07:27:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Nov-2021 07:27:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Nov-2021 07:30:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[07-Nov-2021 23:51:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 02:19:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[08-Nov-2021 02:20:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 02:20:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 02:21:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 02:21:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 05:42:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 05:42:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 07:02:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 07:02:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 07:03:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 07:03:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 08:09:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 08:33:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 08:34:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 08:34:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 08:45:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 08:45:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:19:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:19:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:20:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:20:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:22:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:22:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:24:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:24:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Nov-2021 23:43:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 01:00:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 01:00:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 06:07:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 07:35:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 07:35:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 08:18:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[09-Nov-2021 08:18:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Nov-2021 00:13:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Nov-2021 00:17:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Nov-2021 00:17:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Nov-2021 08:13:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Nov-2021 08:13:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[10-Nov-2021 08:45:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[11-Nov-2021 01:11:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[11-Nov-2021 01:11:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[11-Nov-2021 01:11:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[11-Nov-2021 08:49:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[11-Nov-2021 08:49:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[19-Nov-2021 03:16:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 01:38:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 01:38:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 02:02:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 02:02:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 02:02:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 05:55:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[20-Nov-2021 06:58:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Nov-2021 23:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[21-Nov-2021 23:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 05:46:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 05:46:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:31:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:31:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:33:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:33:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:33:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:34:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 06:34:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[22-Nov-2021 08:39:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Nov-2021 00:45:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Nov-2021 00:45:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Nov-2021 00:52:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Nov-2021 00:52:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Nov-2021 08:31:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[23-Nov-2021 23:25:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 00:32:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 01:16:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 01:16:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 05:43:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 07:36:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[24-Nov-2021 07:36:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[24-Nov-2021 07:36:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[24-Nov-2021 07:39:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 07:39:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[24-Nov-2021 08:42:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Nov-2021 00:16:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Nov-2021 00:16:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[25-Nov-2021 01:10:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[25-Nov-2021 06:44:51 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[25-Nov-2021 06:44:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[25-Nov-2021 06:44:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[25-Nov-2021 08:28:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function dateformatusa() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/salereport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/salereport.php on line 33
+[25-Nov-2021 09:27:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Nov-2021 08:43:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Nov-2021 08:48:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[26-Nov-2021 08:48:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Nov-2021 00:30:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Nov-2021 00:30:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Nov-2021 06:02:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Nov-2021 06:02:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[27-Nov-2021 07:13:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 00:26:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 00:26:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 00:58:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 00:58:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 00:59:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 02:12:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 02:12:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 02:13:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 02:26:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 02:26:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 06:27:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 06:27:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 07:04:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 07:04:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 07:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 07:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 08:40:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 08:40:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 08:53:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[29-Nov-2021 08:53:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Dec-2021 01:18:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[01-Dec-2021 08:45:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Dec-2021 08:45:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[01-Dec-2021 08:45:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[02-Dec-2021 01:08:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[02-Dec-2021 01:08:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Dec-2021 00:06:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:07:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:07:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:07:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:08:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:08:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:08:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 00:08:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/check_old_pass.php on line 8
+[03-Dec-2021 22:54:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[03-Dec-2021 22:54:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Dec-2021 08:34:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[04-Dec-2021 08:34:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Dec-2021 06:01:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Dec-2021 06:01:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Dec-2021 06:01:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Dec-2021 06:05:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[06-Dec-2021 06:05:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[07-Dec-2021 01:03:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[07-Dec-2021 01:03:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[07-Dec-2021 08:42:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[07-Dec-2021 08:42:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[07-Dec-2021 08:42:41 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[07-Dec-2021 08:42:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[07-Dec-2021 08:42:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[07-Dec-2021 08:42:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function dateformatusa() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 30
+[08-Dec-2021 02:29:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[08-Dec-2021 02:33:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Dec-2021 02:33:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Dec-2021 02:33:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Dec-2021 07:06:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Dec-2021 07:06:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Dec-2021 07:06:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[08-Dec-2021 08:25:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Dec-2021 01:48:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function dbRowInsert() in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/save_customer.php on line 17
+[12-Dec-2021 23:45:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Dec-2021 23:45:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Dec-2021 23:45:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[12-Dec-2021 23:45:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php:101
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/saleentry.php on line 101
+[14-Dec-2021 01:13:34 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-Dec-2021 01:13:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getproductinfo.php on line 8
+[14-Dec-2021 01:13:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/rashmfyw/public_html/drabhimanyu.in/billing/admin/getstock.php on line 8
+[19-Dec-2021 03:50:44 America/Chicago] PHP Parse error:  syntax error, unexpected ''=>$expiry_date,'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/rashmfyw/public_html/chaaruvi.com/ganpati-traders/admin/master_product.php on line 48
+[19-Dec-2021 03:50:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''=>$expiry_date,'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/rashmfyw/public_html/chaaruvi.com/ganpati-traders/admin/master_product.php on line 48
+[19-Dec-2021 03:50:49 America/Chicago] PHP Parse error:  syntax error, unexpected ''=>$expiry_date,'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/rashmfyw/public_html/chaaruvi.com/ganpati-traders/admin/master_product.php on line 48
+[19-Dec-2021 03:50:55 America/Chicago] PHP Parse error:  syntax error, unexpected ''=>$expiry_date,'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/rashmfyw/public_html/chaaruvi.com/ganpati-traders/admin/master_product.php on line 48
+[19-Dec-2021 03:51:10 America/Chicago] PHP Parse error:  syntax error, unexpected ''=>$expiry_date,'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/rashmfyw/public_html/chaaruvi.com/ganpati-traders/admin/master_product.php on line 48
